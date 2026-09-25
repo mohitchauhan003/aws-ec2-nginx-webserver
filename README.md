@@ -2,8 +2,6 @@
 
 Hosted a custom web page on an Nginx server running on an AWS EC2 (Ubuntu) instance. I secured it with a security group, a UFW firewall and key-based SSH, and verified it by reading the server logs.
 
-Built by: Mohit Chauhan
-
 Architecture
 User (Browser) → Internet → Internet Gateway → Route Table → Public Subnet
 → Security Group (ports 22, 80) → EC2 Ubuntu (UFW + Nginx)
