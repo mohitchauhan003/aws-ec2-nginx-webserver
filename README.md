@@ -92,5 +92,3 @@ Restrict SSH in UFW to my IP as well
 Add HTTPS with Let's Encrypt
 Provision the whole setup with Terraform
 Add a CI/CD pipeline to deploy page updates automatically
-
-The instance was terminated after the project to avoid charges.
